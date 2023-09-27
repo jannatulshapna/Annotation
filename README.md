@@ -25,6 +25,10 @@ learning state-of-the-art (SOTA) methods for automatic cell segmentation and pro
 introduction of BBBC041Seg will promote future research towards clinically applicable cell segmentation methods from microscopic examinations which can be later used for downstream
 tasks such as detecting hematological diseases(i.e., malaria).
 
+**Data Sample**
+ ![Framework](./images/Mask.png)
+  ![Framework](./images/Original.png)
+
 
 
 **Full Code**
