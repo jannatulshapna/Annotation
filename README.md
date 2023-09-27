@@ -22,7 +22,7 @@ types do not have equal instances which encourages researchers
 to develop algorithms for learning from imbalanced classes in a
 few shot learning paradigm. Furthermore, we conduct a comparative study using both classical rule-based and recent deep
 learning state-of-the-art (SOTA) methods for automatic cell segmentation and provide them as strong baselines. We believe the
-introduction of BBBC041Seg will promote future research towards clinically applicable cell segmentation methods from microscopic examinations which can be later used for downstream
+introduction of BBBC041Seg will promote future research towards clinically applicable cell segmentation methods from microscopic examinations which can be later used for downstream
 tasks such as detecting hematological diseases(i.e., malaria).
 
 
